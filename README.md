@@ -6,7 +6,8 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://red-rock-095a32e00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** -https://www.mediafire.com/file/9webfy7o87biih3/km_20221120-1_480p_30f_20221120_142849.mp4/file
+ 
 
 ## Azure technologies used for Project
 
